@@ -39,7 +39,7 @@ Now copy the ssh key to your clipboard with this command:
 pbcopy < ~/.ssh/id_rsa.pub
 ```
 
-The code is ssh key is copied now. (Use `cmd + v` to paste the key where necessary)
+The ssh key is copied now. (Use `cmd + v` to paste the key where necessary)
 
 To complete this setup, follow the instructions starting from Step 2 at this link **[HERE](https://docs.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-to-your-github-account)**.
 
